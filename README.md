@@ -1,2 +1,2 @@
-# CTPNet
-This repo will release CTPNet
+# CDPNet
+This repo will release CDPNet
